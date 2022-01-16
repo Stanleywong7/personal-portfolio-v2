@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Stanleywong7/personal-portfolio-v2/static/css/main.d9396445.chunk.css",
-    "main.js": "/Stanleywong7/personal-portfolio-v2/static/js/main.ce44f9c7.chunk.js",
-    "main.js.map": "/Stanleywong7/personal-portfolio-v2/static/js/main.ce44f9c7.chunk.js.map",
-    "runtime~main.js": "/Stanleywong7/personal-portfolio-v2/static/js/runtime~main.a1f8e6bc.js",
-    "runtime~main.js.map": "/Stanleywong7/personal-portfolio-v2/static/js/runtime~main.a1f8e6bc.js.map",
-    "static/js/2.ea490775.chunk.js": "/Stanleywong7/personal-portfolio-v2/static/js/2.ea490775.chunk.js",
-    "static/js/2.ea490775.chunk.js.map": "/Stanleywong7/personal-portfolio-v2/static/js/2.ea490775.chunk.js.map",
-    "static/js/3.80c7ac3e.chunk.js": "/Stanleywong7/personal-portfolio-v2/static/js/3.80c7ac3e.chunk.js",
-    "static/js/3.80c7ac3e.chunk.js.map": "/Stanleywong7/personal-portfolio-v2/static/js/3.80c7ac3e.chunk.js.map",
-    "index.html": "/Stanleywong7/personal-portfolio-v2/index.html",
-    "precache-manifest.1c5b02c72816d4b7fbc4162759a8a5c9.js": "/Stanleywong7/personal-portfolio-v2/precache-manifest.1c5b02c72816d4b7fbc4162759a8a5c9.js",
-    "service-worker.js": "/Stanleywong7/personal-portfolio-v2/service-worker.js",
-    "static/css/main.d9396445.chunk.css.map": "/Stanleywong7/personal-portfolio-v2/static/css/main.d9396445.chunk.css.map",
-    "static/media/full_logo.svg": "/Stanleywong7/personal-portfolio-v2/static/media/full_logo.e8a9b070.svg"
+    "main.css": "/static/css/main.d9396445.chunk.css",
+    "main.js": "/static/js/main.ce44f9c7.chunk.js",
+    "main.js.map": "/static/js/main.ce44f9c7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.51dbf2ec.js",
+    "runtime~main.js.map": "/static/js/runtime~main.51dbf2ec.js.map",
+    "static/js/2.ea490775.chunk.js": "/static/js/2.ea490775.chunk.js",
+    "static/js/2.ea490775.chunk.js.map": "/static/js/2.ea490775.chunk.js.map",
+    "static/js/3.80c7ac3e.chunk.js": "/static/js/3.80c7ac3e.chunk.js",
+    "static/js/3.80c7ac3e.chunk.js.map": "/static/js/3.80c7ac3e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.80cdddb26bd3740460a174291fd223bc.js": "/precache-manifest.80cdddb26bd3740460a174291fd223bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d9396445.chunk.css.map": "/static/css/main.d9396445.chunk.css.map",
+    "static/media/full_logo.svg": "/static/media/full_logo.e8a9b070.svg"
   }
 }
