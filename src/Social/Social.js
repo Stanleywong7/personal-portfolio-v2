@@ -1,7 +1,8 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiFillMessage } from "react-icons/ai";
-import { SocialContainer, SocialIcons } from "./FooterStyles";
-const Footer = () => {
+import { SocialContainer, SocialIcons } from "./SocialStyles";
+
+const Social = () => {
   return (
     <div>
       <SocialContainer>
@@ -21,4 +22,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Social;
