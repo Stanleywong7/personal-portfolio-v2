@@ -1,14 +1,23 @@
 import React from "react";
+import Typical from "react-typical";
 import "./Hero.css";
 
 function Hero() {
   return (
     <div>
-      <div className="welcome-text">
-        <h2>Welcome!</h2>
-        <p>
-          The website is still in development. <br />
-          Please feel free to check out my socials below.
+      <div className="welcome-text" id="welcome-text">
+        <h1>Hi 👋, my name is <b>Stanley Wong</b> </h1>
+        <p className="prompt-development" id="prompt-development">
+          <Typical
+            loop={Infinity}
+            wrapper='n'
+            steps={[
+              "The website is still in development. 👷",
+              1000,
+              "Please feel free to contact me below. ⬇️",
+              3000,
+            ]}
+          />
         </p>
       </div>
 
