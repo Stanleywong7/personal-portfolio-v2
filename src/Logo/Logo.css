@@ -1,16 +1,13 @@
-  .logo {
+  #logo {
     height: 40vmin;
-    pointer-events: none;
     filter: invert(100%);
   }
   
-  @media (prefers-reduced-motion: no-preference) {
-    .logo {
-      animation: App-logo-spin infinite 3s linear;
-    }
-  }
-  
-  @keyframes App-logo-spin {
+img.rotate {
+  animation: app-logo-spin infinite 3s linear;
+}
+
+  @keyframes app-logo-spin {
     from {
       transform: rotate(0deg);
     }
