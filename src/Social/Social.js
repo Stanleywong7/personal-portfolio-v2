@@ -6,7 +6,7 @@ const Social = () => {
   return (
     <div>
       <SocialContainer>
-        <SocialIcons href="https://www.linkedin.com/in/stanleywong7/">
+        <SocialIcons href="https://github.com/Stanleywong7">
           <AiFillGithub size="3rem" />
         </SocialIcons>
 
