@@ -20,9 +20,6 @@ function Hero() {
           />
         </p>
       </div>
-
-      <div className="social-icons"></div>
-      <i class="fab fa-github"></i>
     </div>
   );
 }
