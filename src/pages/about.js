@@ -38,8 +38,8 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Stanley Wong's Portfolio | About Page</title>
-        <meta name="description" content="Learn more about Stanley Wong's, a Next.js developer with a passion for 
+        <title>Stanley Wong&apos;s Portfolio | About Page</title>
+        <meta name="description" content="Learn more about Stanley Wong&apos;s, a Next.js developer with a passion for 
         creating innovative solutions. Discover tips for building a developer portfolio and insights on 
         full-stack development, front-end development, and back-end development." />
       </Head>

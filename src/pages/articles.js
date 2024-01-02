@@ -127,8 +127,8 @@ export default function Articles() {
   return (
     <>
       <Head>
-        <title>Stanley Wong's Portfolio | Articles Page</title>
-        <meta name="description" content="Browse through Stanley Wong's collection of software engineering articles and 
+        <title>Stanley Wong&apos;s Portfolio | Articles Page</title>
+        <meta name="description" content="Browse through Stanley Wong&apos;s collection of software engineering articles and 
         tutorials on Next.js, React.js, web development, and more. 
         Gain valuable insights and stay up-to-date with SEO tips for building a developer portfolio." />
       </Head>

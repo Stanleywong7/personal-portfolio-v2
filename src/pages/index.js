@@ -15,10 +15,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Stanley Wong's Portfolio</title>
+        <title>Stanley Wong&apos;s Portfolio</title>
         <meta
           name="description"
-          content="Exploring Stanley Wong's Next.js developer portfolio, discoveing the latest webapp projects, and showcasing skills on his growing journey as a software engineer."
+          content="Exploring Stanley Wong&apos;s Next.js developer portfolio, discoveing the latest webapp projects, and showcasing skills on his growing journey as a software engineer."
         />
       </Head>
 

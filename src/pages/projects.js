@@ -163,7 +163,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Stanley Wong's Portfolio | Projects Page</title>
+        <title>Stanley Wong&apos;s Portfolio | Projects Page</title>
         <meta
           name="description"
           content="Discover the latest webapp projects created by Stanley Wong, a Next.js developer with 
